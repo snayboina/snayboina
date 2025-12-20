@@ -1,88 +1,81 @@
 <div align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="220"
+    alt="coding gif"
+  />
 
-  <h1>👋 Olá, eu sou Francis Vieira</h1>
-  <p>
-    Analista de Dados • Desenvolvedor Front-end • Automação 🤖 • Espanha 🇪🇸
-  </p>
+  <h1>Francis Vieira</h1>
+  <p>Analista de Dados • Front-end • Automação 🤖 • Espanha 🇪🇸</p>
 
   <p>
     <a href="mailto:francis.snay@gmail.com">
       <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/snayboina?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/Repos-000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-
-  <!-- Banner pequeno e discreto (dark) -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=85&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=32&fontAlignY=55&color=0d1117"
-    alt="banner"
-  />
-
 </div>
 
-<hr/>
+---
 
-<h2>🚀 Sobre mim</h2>
+### Sobre mim
 
-<ul>
-  <li>💼 Atualmente trabalho como <b>Analista de Dados</b> em uma empresa da Espanha</li>
-  <li>🧠 Ferramentas do dia a dia: <b>Power BI, Python, Figma</b></li>
-  <li>📚 Estudando: <b>React Native, Vibe Coding, n8n, GoogleAntigravity</b></li>
-  <li>🎯 Objetivo: <b>ser especialista em automações com Inteligência Artificial e sistemas</b></li>
-  <li>⚡ Curiosidade: <b>por onde eu passo, eu sempre automatizo alguma coisa</b></li>
-</ul>
+- 💼 Analista de Dados em uma empresa da Espanha  
+- 🧠 Power BI, Python, Figma  
+- 📚 React Native, Vibe Coding, n8n, GoogleAntigravity  
+- 🎯 Especialista em automações com IA e sistemas  
+- ⚡ Por onde eu passo, eu automatizo alguma coisa  
 
-<hr/>
+---
 
-<h2>🧰 Stack</h2>
+### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,figma,git,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,figma,git,github" alt="stack" />
 </p>
 
-<hr/>
+---
 
-<h2>📌 Destaques</h2>
+### Repositórios em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Automações</h3>
-      <p>Workflows, integrações e scripts para automatizar processos com IA.</p>
-      <a href="https://github.com/snayboina?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20repositórios-111?style=for-the-badge&logo=github&logoColor=white" alt="Ver repos" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Front-end</h3>
-      <p>Interfaces modernas e projetos web com foco em experiência e design.</p>
-      <a href="https://github.com/snayboina?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20repositórios-111?style=for-the-badge&logo=github&logoColor=white" alt="Ver repos" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/snayboina/Project-Enzo-Atualizado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snayboina&repo=Project-Enzo-Atualizado&hide_border=true" alt="Project-Enzo-Atualizado" />
+  </a>
+  <a href="https://github.com/snayboina/Enzo_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snayboina&repo=Enzo_Project&hide_border=true" alt="Enzo_Project" />
+  </a>
+</p>
 
-<hr/>
+<p>
+  <a href="https://github.com/snayboina/n8n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snayboina&repo=n8n&hide_border=true" alt="n8n" />
+  </a>
+  <a href="https://github.com/snayboina/sistemaBruno">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snayboina&repo=sistemaBruno&hide_border=true" alt="sistemaBruno" />
+  </a>
+</p>
 
-<h2>📊 GitHub</h2>
+<p>
+  <a href="https://github.com/snayboina/sistemawetransporte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snayboina&repo=sistemawetransporte&hide_border=true" alt="sistemawetransporte" />
+  </a>
+  <a href="https://github.com/snayboina/testecomandos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snayboina&repo=testecomandos&hide_border=true" alt="testecomandos" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=snayboina&show_icons=true&rank_icon=github&hide_border=true" alt="stats" />
+### GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=snayboina&show_icons=true&hide_border=true" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snayboina&layout=compact&hide_border=true" alt="langs" />
+</p>
 
-  <br/><br/>
-
+<p>
   <img src="https://streak-stats.demolab.com?user=snayboina&hide_border=true" alt="streak" />
-
-</div>
-
-<hr/>
-
-<div align="center">
-  <p>✨ Obrigado por visitar! Bora automatizar o mundo 🚀</p>
-  <p><b>Contato:</b> <a href="mailto:francis.snay@gmail.com">francis.snay@gmail.com</a></p>
-</div>
+</p>
