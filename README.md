@@ -1,12 +1,12 @@
 <div align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="220"
-    alt="coding gif"
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="160"
+    alt="Work in progress"
   />
 
   <h1>Francis Vieira</h1>
-  <p>Analista de Dados • Front-end • Automação 🤖 • Espanha 🇪🇸</p>
+  <p>Data Analyst • Front-end Developer • Automation</p>
 
   <p>
     <a href="mailto:francis.snay@gmail.com">
@@ -20,17 +20,17 @@
 
 ---
 
-### Sobre mim
+## About
 
-- 💼 Analista de Dados em uma empresa da Espanha  
-- 🧠 Power BI, Python, Figma  
-- 📚 React Native, Vibe Coding, n8n, GoogleAntigravity  
-- 🎯 Especialista em automações com IA e sistemas  
-- ⚡ Por onde eu passo, eu automatizo alguma coisa  
+- Data Analyst at a company in Spain  
+- Daily tools: Power BI, Python, Figma  
+- Learning: React Native, Vibe Coding, n8n, GoogleAntigravity  
+- Goal: become a specialist in AI-driven automation and systems  
+- I automate processes wherever I go  
 
 ---
 
-### Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,figma,git,github" alt="stack" />
@@ -38,7 +38,7 @@
 
 ---
 
-### Repositórios em destaque
+## Featured Repositories
 
 <p>
   <a href="https://github.com/snayboina/Project-Enzo-Atualizado">
@@ -69,13 +69,9 @@
 
 ---
 
-### GitHub
+## GitHub Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=snayboina&show_icons=true&hide_border=true" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snayboina&layout=compact&hide_border=true" alt="langs" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=snayboina&hide_border=true" alt="streak" />
 </p>
